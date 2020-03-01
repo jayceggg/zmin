@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc075d1-6a0d-4355-a2cb-7ee129891f30" name="Default Changelist" comment="" />
+    <list default="true" id="9bc075d1-6a0d-4355-a2cb-7ee129891f30" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,7 +182,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582997194237</updated>
-      <workItem from="1582997196821" duration="5518000" />
+      <workItem from="1582997196821" duration="5771000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1583000271214</created>
@@ -189,7 +191,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583000271214</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ok">
+      <created>1583049008250</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583049008250</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ok">
+      <created>1583049078812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583049078812</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,9 +228,10 @@
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
     <state x="495" y="196" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.23.1792.1022@0.23.1792.1022" timestamp="1582999115061" />
-    <state x="479" y="134" key="CommitChangelistDialog2" timestamp="1583049008106">
-      <screen x="0" y="23" width="1792" height="1024" />
+    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1583049078697">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
+    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1583049078697" />
     <state x="479" y="134" key="CommitChangelistDialog2/0.23.1792.1020@0.23.1792.1020" timestamp="1583000270998" />
     <state x="479" y="134" key="CommitChangelistDialog2/0.23.1792.1024@0.23.1792.1024" timestamp="1583049008106" />
     <state x="180" y="112" key="DiffContextDialog" timestamp="1583000216217">
@@ -302,9 +319,10 @@
     </state>
     <state x="397" y="169" key="SettingsEditor/0.23.1792.1022@0.23.1792.1022" timestamp="1583047297717" />
     <state x="397" y="170" key="SettingsEditor/0.23.1792.1026@0.23.1792.1026" timestamp="1582997466968" />
-    <state x="496" y="272" key="Vcs.Push.Dialog.v2" timestamp="1583049018173">
-      <screen x="0" y="23" width="1792" height="1024" />
+    <state x="496" y="270" key="Vcs.Push.Dialog.v2" timestamp="1583049090540">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
+    <state x="496" y="270" key="Vcs.Push.Dialog.v2/0.23.1792.1017@0.23.1792.1017" timestamp="1583049090540" />
     <state x="496" y="271" key="Vcs.Push.Dialog.v2/0.23.1792.1020@0.23.1792.1020" timestamp="1583000503287" />
     <state x="496" y="272" key="Vcs.Push.Dialog.v2/0.23.1792.1022@0.23.1792.1022" timestamp="1583048159928" />
     <state x="496" y="272" key="Vcs.Push.Dialog.v2/0.23.1792.1024@0.23.1792.1024" timestamp="1583049018173" />
